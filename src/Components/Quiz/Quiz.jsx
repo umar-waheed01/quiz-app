@@ -53,7 +53,6 @@ const Quiz = () => {
     setLock(false);
     setScore(0);
     setResult(false);
-    // setResult(false);
   };
 
   return (
